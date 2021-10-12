@@ -1,5 +1,5 @@
 ## Hello there, I'm Gabriel 🌏
-### I'm a FullStack (mainly backend) Developer from Brazil!
+### I'm a full stack (mainly backend) developer from Brazil!
 
 ### 🚀 About
 - 🎓 I have a bachelor's degree in Information Systems and I’m a postgraduate student in Full Stack Development
@@ -7,7 +7,7 @@
 - ⚙️ I use daily:  **Java, Javascript, Flutter and AWS.**
 - 🔭 I'm currently learning **NodeJS & Serverless Computing**
 - **I** ❤️ **to code, play, read books and comics, and watch movies.**
-- 🔥 On Progress Project: Migrating a monolithic web application to a serverless microservice-based architecture
+- 🔥 I'm currently working on: Migrating a monolithic web application to a serverless microservice-based architecture
 
 ### 📫 Reach me
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:gabrielnaslaniec@gmail.com)

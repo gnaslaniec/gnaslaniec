@@ -2,9 +2,9 @@
 ### I'm a full stack (mainly backend) developer from Brazil!
 
 ### 🚀 About
-- 🎓 I have a bachelor's degree in Information Systems and I’m a postgraduate student in Full Stack Development
+- 🎓 I have a bachelor's degree in Information Systems and I’m a postgraduate student in Software Engineering
 - 🎯 I'm currently focusing on **full stack web and mobile development**
-- ⚙️ Technologies i work with:  **Java, NodeJS, Flutter and AWS.**
+- ⚙️ Technologies i work with:  **NodeJS, React Native, AWS and Typescript.**
 - 📚 I'm currently studying **NodeJS & Serverless Computing**
 - 🎮 In my free time, i enjoy coding, reading, watching movies and playing games
 - 💻 I'm currently working on: Migrating a monolithic web application to a serverless microservice-based architecture
